@@ -44,7 +44,3 @@ Caca|25|Medan
 
 [link untuk emoji](https://gist.github.com/AliMD/3344523
 )
-
-LaTe: Math Formula
-
-$\displaystyle
