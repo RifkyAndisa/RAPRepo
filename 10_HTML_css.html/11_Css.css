@@ -1,0 +1,74 @@
+table, th, td {
+    border :5px solid black;
+    border-collapse: collapse;
+}
+h2{color : green;}
+
+h1{
+    color : red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+     Verdana, sans-serif;}
+
+p{color : #ff66ff}
+
+main > div > p {color : red;} 
+
+main > div > .abc {
+    color: yellow
+}
+/* Ini mengubah warna semua Class */
+.mobil {color :#CC00FF}
+
+/* Mengubah tampilan dari ID Avanza */
+#avanza {color : #ff563f}  
+
+
+.pwdk {
+    border: 4px solid purple;
+    border-collapse: collapse;
+}
+#row {
+    border : 4px solid darkcyan;
+}
+.coba-font{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    text-transform: uppercase;
+    /* Dekorasi Text */
+    text-decoration: underline; 
+    /* memberi bayangan pada text */
+    text-shadow: -4px 4px 10px orange;
+    /* Set jarak antar line */
+    line-height: 100%;
+    /* Mengatur spasi antar huruf */
+    letter-spacing: 0px;
+    text-align: justify;
+    text-indent: 2rem;
+}
+
+ul {
+    list-style-type: upper-roman;
+}
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.konten{
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    border : 5px solid yellowgreen;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.tanpa-padding{
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
