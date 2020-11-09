@@ -1,3 +1,3 @@
-# Ini Heade 1#
+# Ini Heade 1 #
 ## Ini Header 2 ##
 ### Ini Header 3 ###
